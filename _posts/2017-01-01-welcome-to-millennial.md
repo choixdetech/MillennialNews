@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "Quel est le meilleur casque VR pour PC ?"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+La réalité virtuelle gagne du terrain et, à ce jour, ce sont les casques VR pour PC qui offrent les meilleures expériences de réalité virtuelle par rapport aux autres types de casques de réalité virtuelle. Ces casques VR offrent des expériences immersives captivantes avec un suivi de position en 6DoF (degrés de liberté).
 
-## Getting Started
+Il existe des dizaines de casques VR pour PC et il peut s’avérer difficile de s’y retrouver sur ce marché. Notre sélection des 10 meilleurs casques VR pour PC (et console de jeux) vise à simplifier les recherches et offrir une liste fiable et objective de produits intéressants.
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+## Casques VR pour PC : bien choisir son modèle
 
-## Example Content
+Les casques VR pour PC sont destinés aux utilisateurs qui possèdent un ordinateur puissant ou d’une console de jeu. Que ce soit pour les gamers occasionnels ou les professionnels, la réalité virtuelle présente de nombreuses applications. Notre dossier détaille différentes applications de la réalité virtuelle pour PC, ainsi que ses avantages et inconvénients.
+
+Pour une expérience VR optimale, il est important de disposer d’assez d’espace, et ce sans obstacles. Les utilisateurs occasionnels se servent de leur salon, tandis que les professionnels ont souvent des pièces dédiées.
+
+## Méthodologie : comment nous avons sélectionné les meilleurs casques VR pour ordinateur
 
 [Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
 
