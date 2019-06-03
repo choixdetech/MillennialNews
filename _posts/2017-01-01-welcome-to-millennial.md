@@ -2,9 +2,9 @@
 layout: post
 title: "Quel est le meilleur casque VR pour PC ?"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
-image: cuba-1.jpg
+categories: guide
+tags: [casque,vr]
+image: vr-headset-hd-4k.jpg
 ---
 
 La réalité virtuelle gagne du terrain et, à ce jour, ce sont les casques VR pour PC qui offrent les meilleures expériences de réalité virtuelle par rapport aux autres types de casques de réalité virtuelle. Ces casques VR offrent des expériences immersives captivantes avec un suivi de position en 6DoF (degrés de liberté).
