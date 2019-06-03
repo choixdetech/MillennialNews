@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "Getting Started"
+title: "QUELLE EST LA MEILLEURE IMPRIMANTE 3D COULEUR ?"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
-image: city-2.jpg
+categories: guide
+tags: [imprimante,3D]
+image: imprimante-3d-witbox-1-noir.jpg
 ---
 
-# Millennial
+# QUELLE EST LA MEILLEURE IMPRIMANTE 3D COULEUR ?
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/).
+L’impression 3D est une technologie en constante évolution avec de nombreuses innovations : impression 3D de métal, de céramique, et même de cellules vivantes. Cependant, l’une des dernières frontières à franchir pour l’impression 3D reste la couleur.
+
+Il est en effet difficile d’imprimer en 3D des objets en couleurs photo-réalistes. Seuls quelques fabricants proposent aujourd’hui des imprimantes 3D couleur de type full-color. Auparavant, l’impression 3D couleur était réservée à de rares imprimantes 3D industrielles de fabricants historiques tels Stratasys ou 3D Systems. Aujourd’hui, il existe des solutions d’impression 3D couleur plus abordables (à moins de 10K €), émanant de fabricants nouveaux sur ce segment de marché convoité.
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
 
-## Notable features
+## Mais d'abord qu’est-ce que l’impression 3D couleur ?
 
 * Compatible with GitHub Pages.
 
